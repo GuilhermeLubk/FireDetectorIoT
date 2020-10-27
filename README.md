@@ -1,4 +1,4 @@
-# FireDetectorIoT - CentraleSupélec
+# Fire Detector IoT - CentraleSupélec
  
 Authors:
           
