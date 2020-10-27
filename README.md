@@ -1,6 +1,7 @@
 # FireDetectorIoT - CentraleSupélec
  
-Authors - Fouad BRAX
+Authors:
+          Fouad BRAX
 
           Achille CADIX
           
